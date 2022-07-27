@@ -12,5 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Jetpack"
+rootProject.name = "JetPack"
 include ':app'
+include ':databinding'
